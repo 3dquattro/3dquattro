@@ -9,8 +9,11 @@
   
   ## Технологии, которыми осуществлял разработку
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev) - Python (Написание различных сервисных приложений, к примеру, для работы с word-excel (особый вид свода таблиц, тиражирование грамот, распознавание речи с видео и тому подобное)
+
 [![My Skills](https://skillicons.dev/icons?i=django)](https://skillicons.dev) - Django (есть собственный проект онлайн-магазина ювелирных изделий с 3d-конструктором на THREE.JS)
+
 [![My Skills](https://skillicons.dev/icons?i=laravel)](https://skillicons.dev) - Laravel (функционирует киоск поступающего для ВУЗа)
+
 <img src="https://www.liblogo.com/img-logo/sml/yi3964ye5d-yii-logo-yii-logo-png-transparent-amp-svg-vector-freebie-supply.webp" width="24px" height="24px"> - Yii2 (разработан сервис для навигации по зданию, так же расширял функционал портала ВУЗа 1С)
 Так же есть опыт разработки 1С - поддержка конфигурации Университет ПРОФ, расширение функционала, создание отчетов (в т.ч. с помощью СКД) 
  
