@@ -18,6 +18,8 @@
 
 <img src="https://www.liblogo.com/img-logo/sml/yi3964ye5d-yii-logo-yii-logo-png-transparent-amp-svg-vector-freebie-supply.webp" width="24px" height="24px"> - **Yii2** (разработан сервис для навигации по зданию, так же расширял функционал портала ВУЗа 1С)
 
+[![My Skills](https://skillicons.dev/icons?i=php)](https://skillicons.dev) - **PHP** (есть пример собственного php-mysql-javascript телефонного справочника с редактированием "на лету")
+
 *Так же есть опыт разработки **1С** - поддержка конфигурации Университет ПРОФ, расширение функционала, создание отчетов (в т.ч. с помощью СКД)*
  
 
