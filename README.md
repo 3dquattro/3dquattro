@@ -12,7 +12,7 @@
   ## Технологии, которыми осуществлял разработку
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev) - **Python** (Написание различных сервисных приложений, к примеру, для работы с word-excel (особый вид свода таблиц, тиражирование грамот, распознавание речи с видео и тому подобное)
 
-[![My Skills](https://skillicons.dev/icons?i=django)](https://skillicons.dev) - **Django** (есть собственный проект онлайн-магазина ювелирных изделий с 3d-конструктором на **THREE.JS**)
+[![My Skills](https://skillicons.dev/icons?i=django)](https://skillicons.dev) - **Django** (есть собственный <a href="https://github.com/3dquattro/juvshop">проект</a> онлайн-магазина ювелирных изделий с 3d-конструктором на **THREE.JS**)
 
 [![My Skills](https://skillicons.dev/icons?i=laravel)](https://skillicons.dev) - **Laravel** (функционирует киоск поступающего для ВУЗа)
 
