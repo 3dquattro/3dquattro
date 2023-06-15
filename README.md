@@ -16,7 +16,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=redis)](https://skillicons.dev) - **Celery**+**Redis** (реализован  <a href="https://github.com/3dquattro/availabilitybot_mk2_public">telegram-бот-пинговалка</a>)
 
-[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=redis)](https://skillicons.dev) - **PostgreSQL**
+[![My Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=redis)](https://skillicons.dev) - **PostgreSQL**
 
 [![My Skills](https://skillicons.dev/icons?i=laravel)](https://skillicons.dev) - **Laravel** (функционирует киоск поступающего для ВУЗа)
 
